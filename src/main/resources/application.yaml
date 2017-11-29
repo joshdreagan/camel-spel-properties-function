@@ -1,0 +1,18 @@
+# Spring Boot
+#spring:
+
+# Camel Spring Boot
+camel:
+  springboot:
+    name: CamelSpringBootProperties
+    main-run-controller: true
+
+# Logging
+logging:
+  level:
+    #org.apache.camel: DEBUG
+
+# Application
+application:
+  log:
+    message: Hello world!
