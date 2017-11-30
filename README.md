@@ -1,1 +1,1 @@
-# Camel SpEL Property Function
+# Camel SpEL Properties Function
