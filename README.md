@@ -1,1 +1,1 @@
-# Camel Spring Boot Properties
+# Camel SpEL Property Function
